@@ -6,21 +6,15 @@ This repository serves as an index for a collection of projects, code snippets, 
 
 ## Projects
 
-### 1. Ferritext
+| | | |
+|-|-|-|
+| | [**Ferrite Core Wallet**](https://github.com/koh-gt/ferrite-core) | The Ferrite Core wallet is a desktop application that allows users to securely store, manage, and transact with Ferrite Coins. The software provides a user-friendly interface, supports multiple platforms (Windows and Ubuntu), and incorporates strong security measures to protect users' funds. |
+| | [**Ferritext**](https://github.com/koh-gt/ferritext) | This project is the Powershell script for Ferrite Messenger. It enables users to securely communicate with each other through op_return opcodes on the Ferrite blockchain. The script provides a user-friendly interface, real-time messaging and anti-censorship features. It leverages blockchain technology to ensure data integrity and decentralization. |
+| | [**Wrapped Ferrite**](https://github.com/koh-gt/wrapped-ferrite) | This repository contains the smart contracts written in Solidity for Ferrite Coin. The contracts handle various aspects of the token, including token creation, transfers, and functionality related to the token. |
+| | [**Electrum Ferrite**](https://github.com/koh-gt/electrum-fec)<br>[**Electrumx FEC Server**](https://github.com/koh-gt/electrumx) | |
 
-- Repository: [Ferritext](https://github.com/koh-gt/ferritext)
-- Description: This project is the Powershell script for Ferrite Messenger. It enables users to securely communicate with each other through op_return opcodes on the Ferrite blockchain. The script provides a user-friendly interface, real-time messaging and anti-censorship features. It leverages blockchain technology to ensure data integrity and decentralization.
 
-### 2. Wrapped Ferrite
-
-- Repository: [Wrapped Ferrite](https://github.com/koh-gt/wrapped-ferrite)
-- Description: This repository contains the smart contracts written in Solidity for Ferrite Coin. The contracts handle various aspects of the token, including token creation, transfers, and functionality related to the token.
-
-### 3. Ferrite Core Wallet
-
-- Repository: [ferrite-core](https://github.com/koh-gt/ferrite-core)
-- Description: The Ferrite Core wallet is a desktop application that allows users to securely store, manage, and transact with Ferrite Coins. The software provides a user-friendly interface, supports multiple platforms (Windows and Ubuntu), and incorporates strong security measures to protect users' funds.
-
+  
 ## Contact
 
 - Telegram Main group: [Link](https://t.me/ferrite_core)
