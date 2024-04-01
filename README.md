@@ -28,3 +28,6 @@ Feel free to reach out to me if you have any questions or would like to discuss 
 ## License
 
 This portfolio and its contents are licensed under the [MIT License](LICENSE).
+
+Profile Viewcount as of 20240401:  
+![:name](https://count.getloli.com/get/@:koh-gt?theme=asoul)
