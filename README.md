@@ -16,6 +16,7 @@ This repository serves as an index for a collection of projects, code snippets, 
 
 ### <a href="https://github.com/koh-gt/electrumx/" target="_blank"><img width=100 src="https://github.com/koh-gt/koh-gt/assets/101822992/8ecdcc72-0e34-446b-b8db-82c2d04fb69c" /></a>
 
+![blockframe_black_finalstack_color_1080](https://github.com/user-attachments/assets/a3566c0b-9920-4969-ba44-a5722a4cb246)
 
   
 ## Contact
