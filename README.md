@@ -1,8 +1,10 @@
 # koh-gt
 
+
 ## Overview
 This repository serves as an index for a collection of projects, code snippets, and insights related to Ferrite, a decentralized cryptocurrency built on blockchain technology.
 ##### <p align=left><a href="https://github.com/koh-gt/ferrite-core/" target="_blank"><img width=256 src="https://github.com/koh-gt/ferrite-core/assets/101822992/bddf138c-659d-45cb-83ee-dbc783bffd18" /></a></p>
+##### <p align=left><a href="https://github.com/koh-gt/ferrite-wallet/" target="_blank"><img width=256 src="https://github.com/user-attachments/assets/635dcef7-fa5b-4618-a481-1a0657d5341f" /></a></p>
 > The Ferrite Core wallet is a desktop application that allows users to securely store, manage, and transact with Ferrite Coins. The software provides a user-friendly interface, supports multiple platforms (Windows and Ubuntu), and incorporates strong security measures to protect users' funds.
 
 
